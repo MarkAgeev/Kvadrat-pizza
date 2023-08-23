@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kvadrat-pizza/static/css/main.32311d2c.css",
+    "main.js": "/Kvadrat-pizza/static/js/main.e69d5310.js",
+    "static/media/pizza.jpg": "/Kvadrat-pizza/static/media/pizza.dfd3a519c8a1a7706de7.jpg",
+    "index.html": "/Kvadrat-pizza/index.html",
+    "main.32311d2c.css.map": "/Kvadrat-pizza/static/css/main.32311d2c.css.map",
+    "main.e69d5310.js.map": "/Kvadrat-pizza/static/js/main.e69d5310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32311d2c.css",
+    "static/js/main.e69d5310.js"
+  ]
+}
